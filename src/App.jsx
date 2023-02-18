@@ -1,10 +1,13 @@
 import Pokedex from "./components/Pokedex";
+import Pokemon from "./components/Pokemon";
+import PokedexProvider from "./context/PokedexProvider";
 
 function App() {
   return (
-    <div>
+    <PokedexProvider>
       <Pokedex />
-    </div>
+      <Pokemon />
+    </PokedexProvider>
   );
 }
 
