@@ -17,7 +17,7 @@ const useFetchPokemon = () => {
         };
         setPokemon(pokeData);
         setPokemonId(pokeData.id);
-      });
+      }).catch(() => setPokemon({erro: 'Não encontrado'}));
   };
   return { pokemon, fetchPokemon };
 };

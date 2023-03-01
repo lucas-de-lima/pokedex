@@ -47,10 +47,10 @@ function Pokedex() {
       </form>
       <div className="buttons">
         <button onClick={handlePrev} className="button">
-          Prev
+        &lt;Prev
         </button>
         <button onClick={handleNext} className="button">
-          Next
+          Next&gt;
         </button>
       </div>
       <img src={pokedexImg} alt="pokedex" />
