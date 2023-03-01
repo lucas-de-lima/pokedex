@@ -39,7 +39,7 @@ function Pokedex() {
       <form className="form" onSubmit={searchPokemon}>
         <input
           value={search}
-          onChange={(e) => setSearch(e.target.value)}
+          onChange={(e) => setSearch(e.target.value.toLowerCase())}
           type="search"
           className="input__search"
           placeholder="Name or Number"
