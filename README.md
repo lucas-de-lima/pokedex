@@ -8,10 +8,7 @@ To use this application, simply visit [https://pokedex-mu-lemon.vercel.app/](htt
 
 ## Features
 
-- List of all Pokémon with their respective numbers, names and types;
 - Pokémon search bar that allows searching by name or number;
-- Individual Pokémon pages with their details, including their type, abilities, and moves;
-- Favorite Pokémon list that can be managed by adding and removing them.
 
 ## Technologies
 
