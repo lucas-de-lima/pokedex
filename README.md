@@ -3,7 +3,7 @@
 This project is a web application for a Pokédex, developed by @lucas-de-lima and @Josieljcc using React.js with hooks and global state management with ContextAPI. The interface is styled with CSS.
 
 ## Overview
-<img align='left' src="https://raw.githubusercontent.com/lucas-de-lima/pokedex/main/public/pokedex.gif" width="230">
+<img src="https://raw.githubusercontent.com/lucas-de-lima/pokedex/main/public/pokedex.gif" width="230">
 
 ## Getting Started
 
