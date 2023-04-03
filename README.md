@@ -4,7 +4,7 @@ This project is a web application for a Pokédex, developed by @lucas-de-lima an
 
 ## Getting Started
 
-To use this application, simply visit [https://pokedex-mu-lemon.vercel.app/](https://pokedex-mu-lemon.vercel.app/) on your web browser.
+To use this application, simply visit [https://pokedex-blush-sigma.vercel.app/](https://pokedex-blush-sigma.vercel.app/) on your web browser.
 
 ## Features
 
