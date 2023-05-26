@@ -1,35 +1,35 @@
 # Pokédex
 
-This project is a web application for a Pokédex, developed by @lucas-de-lima and @Josieljcc using React.js with hooks and global state management with ContextAPI. The interface is styled with CSS.
+Este projeto é uma aplicação web para uma Pokédex, desenvolvida por @lucas-de-lima e @Josieljcc usando React.js com hooks e gerenciamento de estado global com ContextAPI. A interface é estilizada com CSS.
 
-## Overview
+## Visão geral
 <img src="https://raw.githubusercontent.com/lucas-de-lima/pokedex/main/public/pokedex.gif" width="230">
 
-## Getting Started
+## Começando
 
-To use this application, simply visit [https://pokedex-blush-sigma.vercel.app/](https://pokedex-blush-sigma.vercel.app/) on your web browser.
+Para usar este aplicativo, basta visitar [https://pokedex-blush-sigma.vercel.app/](https://pokedex-blush-sigma.vercel.app/) em seu navegador.
 
 ## Features
 
-- Pokémon search bar that allows searching by name or number;
+- Barra de pesquisa de Pokémon que permite pesquisar por nome ou número;
 
-## Technologies
+## Tecnologias
 
 - React.js
 - React Hooks
 - React ContextAPI
 - CSS
 
-## Contributions
+## Contribuição
 
-Contributions to this project are welcome. To contribute, please follow these steps:
+Contribuições para este projeto são bem-vindas. Para contribuir, siga os seguintes passos:
 
-1. Fork this repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request.
+1. Bifurque este repositório.
+2. Crie uma nova ramificação.
+3. Faça suas alterações e confirme-as.
+4. Envie suas alterações para o fork.
+5. Envie uma solicitação pull.
 
-## Credits
+## Creditos
 
-This project was developed by @lucas-de-lima and @Josieljcc.
+Este projeto foi desenvolvido por @lucas-de-lima e @Josieljcc.
